@@ -85,6 +85,10 @@ The Decision Tree Classifier achieved a good level of accuracy in predicting loa
 
 The model demonstrates a promising ability to support financial institutions in assessing applicant risk levels.
 
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5edc9fba-9a14-4665-84aa-6232b6e2ef45)
+
 ##  Acknowledgements
 
 This project was completed as part of my internship at **CodTech IT Solutions**.
