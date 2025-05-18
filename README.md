@@ -12,20 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
-
-
 ##  Project Title
 **Decision Tree-Based Loan Repayment Classification**
-
-##  Internship Details
-- **Company**: CodTech IT Solutions  
-- **Intern Name**: Muzammil Ahmed  
-- **Intern ID**: COD08111  
-- **Domain**: Front-End Development  
-- **Duration**: 4 Weeks  
-- **Mentor**: Neela Santosh
-
----
 
 ##  Project Description
 
